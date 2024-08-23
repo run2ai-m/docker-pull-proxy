@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+lscr.io/linuxserver/fail2ban:latest registry.cn-hangzhou.aliyuncs.com/action-public/fail2ban
