@@ -1,1 +1,1 @@
-lscr.io/linuxserver/fail2ban:latest registry.cn-hangzhou.aliyuncs.com/action-public/fail2ban
+lscr.io/linuxserver/fail2ban:latest registry.cn-hangzhou.aliyuncs.com/action-public/fail2ban:latest
